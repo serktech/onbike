@@ -1,5 +1,7 @@
 # onbike
 
+Simple page bike reservation functionality.
+
 ## Project setup
 ```
 npm install
